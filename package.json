@@ -1,0 +1,16 @@
+{
+  "name": "home pages",
+  "version": "1.0.0",
+  "description": "Home Page",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "home",
+    "page"
+  ],
+  "author": "jae",
+  "license": "ISC"
+}
